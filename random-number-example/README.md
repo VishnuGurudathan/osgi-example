@@ -30,5 +30,5 @@ After running mvn clean install, you can find the bundle in the **target** folde
 - We can use the start command in the karaf console to start the bundle.
 - Start bundle of project _random-number-generator_ followed by _random-number-reader_, the order is important since the later depends on the former.
 
-We can also install and run the bundles by copying the bundles generated in the respective target folder to ***KARAF/deploy****. This process will auto-install the bundles; we can start the bundles individually by karaf start command. 
+We can also install and run the bundles by copying the bundles generated in the respective target folder to ***KARAF/deploy***. This process will auto-install the bundles; we can start the bundles individually by karaf start command. 
 Find more details in [Apache Karaf Documentation](http://karaf.apache.org/manual/latest/)
