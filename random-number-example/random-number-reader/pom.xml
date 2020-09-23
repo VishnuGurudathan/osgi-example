@@ -27,9 +27,9 @@
     <version>0.0.1-SNAPSHOT</version>
     <packaging>bundle</packaging>
 
-    <name>random-generator-consumer Bundle</name>
+    <name>random-number-reader Bundle</name>
     <description>
-        random-generator-consumer OSGi bundle project.
+        random-number-reader OSGi bundle project.
     </description>
 
     <properties>
