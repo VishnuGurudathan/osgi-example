@@ -1,5 +1,6 @@
 # OSGi Examples
-This is just a simple OSGi example code, covering OSGi core concepts for learning purposes.
+
+## A simple OSGi example,  illustrating OSGi core concepts for learning purposes.
 
 OSGi bundle is generated with the help of [Apache bundle plugin for Maven](https://felix.apache.org/documentation/subprojects/apache-felix-maven-bundle-plugin-bnd.html "Apache bundle plugin for Maven") on the projects.
 
